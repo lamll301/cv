@@ -5,16 +5,30 @@ const app = {
             degree: "Bachelor of Software Engineering",
             institution: "Vietnam Maritime University",
             location: "Hai Phong, Vietnam",
-            date: "September 2021 – August 2025 (expected)",
+            date: "September 2021 – August 2025",
             gpa: "3.31/4.0",
             achievements: [
                 "3rd Place Winner - School-level Computer Science Olympiad Competition",
-                "Academic Scholarship Recipient - Semester 1, Academic Year 2024-2025"
+                "Academic Scholarship Recipient - Semester 1, Academic Year 2024-2025",
+                "Outstanding Student of the Faculty - Academic Year 2024-2025"
             ],
             certifications: [
                 "TOEIC Certification",
                 "Microsoft Office Specialist (MOS)",
                 "HTML, CSS, JS, Node & ExpressJS at F8 – Programming for Work"
+            ]
+        }
+    ],
+    experience: [
+        {
+            company: "Dolphin Technology Vietnam Center Co., Ltd",
+            location: "Hai Phong, Vietnam",
+            position: "Standard Cell Layout Design Engineer",
+            date: "July 2025 – present",
+            responsibilities: [
+                "Perform standard cell layout design and verification (DRC, LVS) for 28nm process using Cadence Virtuoso and Mentor Calibre",
+                "Conduct quality checks, area optimization, and grid alignment across multiple standard-cell libraries",
+                ""
             ]
         }
     ],
