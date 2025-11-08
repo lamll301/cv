@@ -1,5 +1,5 @@
 const app = {
-    summary: "Recent Software Engineering graduate with strong foundation in full-stack web development and hands-on experience building real-world applications. Demonstrated ability to develop scalable web solutions and e-commerce platforms through multiple personal and academic projects. Proven problem-solving skills through competitive programming and technical challenges. Eager to contribute technical expertise and fresh perspectives to a dynamic development team while continuing to learn and grow professionally.",
+    summary: "A passionate and innovative Software Engineer with expertise in full-stack development and database architecture. I am deeply fascinated by the transformative power of AI and am consistently exploring ways to integrate cutting-edge technologies like machine learning and automation into scalable web solutions. My goal is to craft intelligent systems that not only solve complex business challenges but also deliver exceptional user experiences and drive tangible efficiency",
     education: [
         {
             degree: "Bachelor of Software Engineering",
@@ -15,7 +15,6 @@ const app = {
             certifications: [
                 "TOEIC Certification",
                 "Microsoft Office Specialist (MOS)",
-                "HTML, CSS, JS, Node & ExpressJS at F8 – Programming for Work"
             ]
         }
     ],
@@ -26,9 +25,9 @@ const app = {
             position: "Standard Cell Layout Design Engineer",
             date: "July 2025 – present",
             responsibilities: [
-                "Perform standard cell layout design and verification (DRC, LVS) for 28nm process using Cadence Virtuoso and Mentor Calibre",
-                "Conduct quality checks, area optimization, and grid alignment across multiple standard-cell libraries",
-                ""
+                "Designed and verified standard cell layouts for a 28nm process using Cadence Virtuoso and Mentor Calibre, achieving 100% DRC and LVS clean delivery for multiple library releases",
+                "Optimized area, performance, and power for 300+ verified standard cells, enhancing overall library efficiency and sign-off quality",
+                "Supported senior engineers in layout design and verification, gaining hands-on experience in advanced optimization and sign-off procedures"
             ]
         }
     ],
@@ -81,14 +80,15 @@ const app = {
             ]
         },
         {
-            name: "Watch Shop",
-            url: "",
-            github_url: "https://github.com/lamll301/watch-shop",
-            technologies: ["Node.js", "Express.js", "MongoDB"],
+            name: "Image Filtering in Frequency Domain (Web Implementation)",
+            url: "https://lamll301.github.io/js-frequency-filters",
+            github_url: "https://github.com/lamll301/js-frequency-filters",
+            technologies: ["JavaScript", "OpenCV.js", "NumJS", "HTML", "CSS"],
             description: [
-                "Developed comprehensive e-commerce platform with product management, user accounts, shopping cart and order processing using MVC architecture pattern",
-                "Implemented user interface with Handlebars partials and helpers for reusable components and clean code structure",
-                "Implemented cloud data storage using MongoDB Atlas, enabling scalable and reliable database performance"
+                "Implemented frequency-domain image filtering (low-pass, high-pass, band-pass, Laplacian, and homomorphic filters) using JavaScript and OpenCV.js",
+                "Developed an interactive web interface allowing users to upload images, visualize filter kernels, and download processed results in real time",
+                "Applied FFT/IFFT and frequency-domain mask design to analyze and enhance image quality",
+                "Demonstrated strong understanding of digital image processing, Fourier transform, and web-based visualization"
             ]
         }
     ],
